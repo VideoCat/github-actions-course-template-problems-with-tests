@@ -1,1 +1,2 @@
 name: Team aApproval Workflow
+on: pull_request_review
