@@ -1,4 +1,4 @@
-name: Team aApproval Workflow
+name: Team Approval Workflow
 on: pull_request_review
 
 jobs:
